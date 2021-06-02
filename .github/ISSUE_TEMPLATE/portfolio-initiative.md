@@ -1,5 +1,5 @@
 ---
-name: Din idé
+name: Porteføljetiltak
 about: Registrer et porteføljetiltak
 labels: kind/portfolio-initiative
 ---
