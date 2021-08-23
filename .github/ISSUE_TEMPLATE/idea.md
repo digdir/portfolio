@@ -1,16 +1,14 @@
 ---
-name: Din idé
-about: Registrer din innovasjonsidé
+name: Your idea
+about: Register your idea
 labels: kind/idea
 ---
 
-## Beskrivelse
-> Beskriv ideén din her. Du kan enkelt lime inn bilder om du har behov for det.
+## Description
+> Describe your idea here. You can easily paste in images if that makes your idea easier to understand.
 
-## Informasjon om ideén
+### The challenge
+> Tell us more about the existing situation/challenge and the background for your idea
 
-### Beskriv dagens situasjon 
-> Fortell oss litt mer om dagens situasjon og bakgrunnen for idéen
-
-### Forslag til forenkling eller løsning 
-> Fortell oss litt mer om hvordan du foreslår at dagens situasjon kan forbedres
+### Solution
+> Tell us more about how to improve the current situation
