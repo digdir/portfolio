@@ -1,7 +1,7 @@
 ---
 name: Portfolio initiative
-about: Register a portfolio initiative
-labels: kind/portfolio-initiative
+about: Register a new portfolio initiative
+labels: kind/initiative
 ---
 
 ## Describe the problem or need 
@@ -11,7 +11,7 @@ labels: kind/portfolio-initiative
 ## Describe the expected benefits and effects 
 
 ## Stakeholders and target groups
-> Beskriv hvilke interessenter forslaget har, og hvem som er målgruppen for forslaget
+> Describe stakeholders and target groups for the initiative
 
 ## Links
-> Legg til lenker om det er relevant
+> Add links if relevant
