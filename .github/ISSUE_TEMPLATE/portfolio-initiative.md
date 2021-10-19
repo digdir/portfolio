@@ -6,12 +6,19 @@ labels: kind/initiative
 
 ## Describe the problem or need 
 
-## Describe the initiative and solution
+## Objectives & Key Results (OKR)
 
-## Describe the expected benefits and effects 
+### Objective 1
+- [ ] Key result
+- [ ] Key result
 
-## Stakeholders and target groups
-> Describe stakeholders and target groups for the initiative
+### Objective 2
+- [ ] Key result
+- [ ] Key result
 
-## Links
-> Add links if relevant
+## Describe the solution
+
+### Expected benefits and effects 
+
+### Stakeholders and target groups
+
