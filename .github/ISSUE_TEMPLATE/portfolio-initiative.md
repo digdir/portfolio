@@ -22,3 +22,6 @@ labels: kind/initiative
 
 ### Stakeholders and target groups
 
+### Resources
+
+### Risk
