@@ -11,12 +11,15 @@ labels: kind/initiative
 ### Objective 1
 - [ ] Key result
 - [ ] Key result
+- [ ] Key result
 
 ### Objective 2
 - [ ] Key result
 - [ ] Key result
-
+- [ ] Key result
+- [ ] 
 ### Objective 3
+- [ ] Key result
 - [ ] Key result
 - [ ] Key result
 
