@@ -16,6 +16,10 @@ labels: kind/initiative
 - [ ] Key result
 - [ ] Key result
 
+### Objective 3
+- [ ] Key result
+- [ ] Key result
+
 ## Describe the solution
 
 ### Expected benefits and effects 
