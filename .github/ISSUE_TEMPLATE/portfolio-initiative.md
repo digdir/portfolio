@@ -23,7 +23,7 @@ labels: kind/initiative
 - [ ] Key result
 - [ ] Key result
 
-## Describe the solution
+## Describe the possible solution
 
 ### Expected benefits and effects 
 
