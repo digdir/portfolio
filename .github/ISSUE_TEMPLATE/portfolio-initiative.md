@@ -17,7 +17,7 @@ labels: kind/initiative
 - [ ] Key result
 - [ ] Key result
 - [ ] Key result
-- [ ] 
+
 ### Objective 3
 - [ ] Key result
 - [ ] Key result
