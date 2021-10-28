@@ -1,17 +1,14 @@
-# Portfolio
+# DGT Portfolio
 
-TODO: Erstatt teksten under
+Porteføljen består av de større tiltakene som det årlig skal settes av midler til for å realisere.
 
-De beste ideene finner man som oftest i fellesskap, Altinns innovasjonsprogram er et slikt fellesskap,
-der vi også tar ideene videre i retning av løsninger som er klare til implementering.
+Porteføljen kan visualiseres på flere ulike måter:
 
-Vi bringer frem oppdatert kunnskap og legger til rette for gode diskusjoner og idéarbeid.
+- [Liste over saker](https://github.com/Altinn/dig-portfolio/issues). Benytter standard GitHub issues. 
+- [Interaktivt regneark](https://github.com/orgs/Altinn/projects/2/). Benytter nye [projects beta](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects).
+- [Board i ZenHub](https://github.com/Altinn/dig-portfolio/edit/main/README.md#workspaces/altinn-portfolio-61239183bb074b001072979b/board?repos=373241463) og [Board i projects beta](https://github.com/orgs/Altinn/projects/2/views/5). WIP.
 
-[Registrer din idé eller porteføljetiltak](https://github.com/Altinn/altinn-innovation/issues/new/choose)
+Det er mulig å filtrere/sortere de ulike visningen basert på ulike [labels](https://github.com/Altinn/dig-portfolio/labels) og [milepæler](https://github.com/Altinn/dig-portfolio/milestones?direction=asc&sort=due_date&state=open).
 
-![image](https://user-images.githubusercontent.com/6088624/120520870-9bd76600-c3d4-11eb-83c0-0d0a1a5a7d25.png)
-
-Innovation@altinn er et fellesskap der deltakere stimuleres til idéutvikling og til å ta idéene videre mot løsninger som er klare til implementering.
-Fellesskapet bringer frem oppdatert kunnskap og legger til rette for gode diskusjoner og idéarbeid.
-
-Når du har meldt inn ideen din her kan alle være med i diskusjonen om ideen, og i fellesskap komme frem til muligheter og løsninger!
+## OKR
+Hvert eneste tiltak skal beskrives med utgangspunkt i [denne malen](https://github.com/Altinn/dig-portfolio/issues/new/choose), og skal inneholde OKR.
