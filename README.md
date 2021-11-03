@@ -13,10 +13,17 @@ Porteføljen består av de større tiltakene som det må settes av midler til fo
 - **[Milepæler](https://github.com/Altinn/dig-portfolio/milestones?direction=asc&sort=due_date&state=open)** - Leveranser av tiltak pr. kvartal
   [![Milepæler screenshot](https://user-images.githubusercontent.com/6088624/139855148-0dbe8839-a5b0-4c90-b4b1-add9d96a1f04.png)](https://github.com/Altinn/dig-portfolio/milestones?direction=asc&sort=due_date&state=open "Milepæler")
 
+## Søk og filtrering
 
+GitHub har et [kraftig søk](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests) og muligheter for filtrering.
 
-Det er også mulig å filtrere/sortere de ulike visningen basert på ulike [labels](https://github.com/Altinn/dig-portfolio/labels) og [milepæler](https://github.com/Altinn/dig-portfolio/milestones?direction=asc&sort=due_date&state=open).
+Det er også mulig å filtrere de ulike visningene, f.eks. basert på diverse [labels](https://github.com/Altinn/dig-portfolio/labels).
+![Filtrering screenshot](https://user-images.githubusercontent.com/6088624/140031166-4733c2f2-2842-43cf-beb9-97a70a0d7d44.png "Filtrering på labels")
 
 ## OKR
 Hvert eneste tiltak skal beskrives med utgangspunkt i [denne malen](https://github.com/Altinn/dig-portfolio/issues/new/choose), og skal inneholde OKR.
+Resultatene i OKR skal være [task lists](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists) kunne hukes av når de er gjennomførte.
+I tillegg så bør OKRene peke ned til epos i de ulike produktbackloggene.
+
+TODO: Figur og lenker for OKR
 
