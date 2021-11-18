@@ -1,7 +1,6 @@
 ---
 name: Portfolio initiative
 about: Register a new portfolio initiative
-labels: kind/initiative
 ---
 
 ## Describe the problem or need 
