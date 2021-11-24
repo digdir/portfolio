@@ -2,6 +2,14 @@
 
 Porteføljen består av de større tiltakene som det må settes av midler til for å realisere.
 
+## Hvilke saker skal være del av porteføljen?
+
+TODO
+
+## Kriterier for faseoverganger
+
+TODO
+
 ## Porteføljen kan vises på ulike måter
 
 - **[Issues](https://github.com/Altinn/dig-portfolio/issues)** - Standard visning av GitHub issues
