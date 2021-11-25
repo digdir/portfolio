@@ -18,7 +18,8 @@ Saker som skal være en del av porteføljen registreres med tilstrekkelig inform
 - problemstilling eller behovet er beskrevet
 - problemet som skal løses sikrer leveranser til hele det strategiske målbildet
 - tiltaket er tildelt den som skal detaljere og beskrive nærmere
-- prioritering er angitt ved MoSCoW   
+- prioritering er angitt ved MoSCoW 
+- arbeidsomfang for å ferdigstille aktiviteter i concept 
 - anses som viktig og må prioriteres videre for concept
 
 ### Concept 
@@ -27,15 +28,17 @@ Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre vider
 - OKR er angitt
 - forventede effekter og fordeler er beskrevet
 - eierskap, interessenter og målgruppe er definert
+- arbeidsomfang for å ferdigstille aktiviteter i planning
 - anses som nødvendig og må prioriteres videre for planning
 
 ### Planning
 Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette og følge opp tiltaket. Tiltak flyttes til Implementation når følgende er innfridd. 
 - Hvis mulig foreligger resultat fra proof of concept
-- Ressurser for å gjennomføre tiltaket 
 - milepæler er definert
-- Risiko er definert
-- Budsjett og fordeling av budsjettbehov på ulike poster
+- Risiko og DPIA er definert
+- Interne ressurser for å gjennomføre tiltaket 
+- Budsjett implementering og fordeling av budsjettbehov på ulike poster
+- Budsjett for forvaltning og drift
 - anses som haster og må prioriteres videre for Implementation
 
 ### Implementation
