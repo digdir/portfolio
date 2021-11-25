@@ -13,14 +13,15 @@ Porteføljesaker er mer å regne som enkeltstående prosjekter. De kjennetegnes 
 
 Det er fem faser:
 
-### New
+### New/No status
 Saker som skal være en del av porteføljen registreres med tilstrekkelig informasjon slik at det er mulig å forstå, kategorisere tiltaket samt identifisere hva som må endres. Tiltak flyttes til Concept når følgende er innfridd:
 - problemstilling eller behovet er beskrevet
 - problemet som skal løses sikrer leveranser til hele det strategiske målbildet
-- tiltaket er tildelt den som skal detaljere og beskrive nærmere   
-- anses som viktig og må prioriteres videre for consept
+- tiltaket er tildelt den som skal detaljere og beskrive nærmere
+- prioritering er angitt ved MoSCoW   
+- anses som viktig og må prioriteres videre for concept
 
-### Consept 
+### Concept 
 Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre videre prioriteringer. Tiltak flyttes til Planning når følgende er innfridd. 
 - mulig løsning er beskrevet
 - OKR er angitt
