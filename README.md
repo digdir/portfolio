@@ -16,11 +16,11 @@ Det er fem faser:
 ### New/No status
 Saker som skal være en del av porteføljen registreres med tilstrekkelig informasjon slik at det er mulig å forstå, kategorisere tiltaket samt identifisere hva som må endres. Tiltak flyttes til Concept når følgende er innfridd:
 - problemstilling eller behovet er beskrevet
-- problemet som skal løses sikrer leveranser til hele det strategiske målbildet
+- problemet som skal løses sikrer leveranser til det strategiske målbildet
 - tiltaket er tildelt den som skal detaljere og beskrive nærmere
 - prioritering er angitt ved MoSCoW 
 - arbeidsomfang for å ferdigstille aktiviteter i concept 
-- anses som viktig og må prioriteres videre for concept
+- anses som viktig og må prioriteres for concept
 
 ### Concept 
 Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre videre prioriteringer. Tiltak flyttes til Planning når følgende er innfridd. 
@@ -29,7 +29,7 @@ Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre vider
 - forventede effekter og fordeler er beskrevet
 - eierskap, interessenter og målgruppe er definert
 - arbeidsomfang for å ferdigstille aktiviteter i planning
-- anses som nødvendig og må prioriteres videre for planning
+- anses som nødvendig og må prioriteres for planning
 
 ### Planning
 Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette og følge opp tiltaket. Tiltak flyttes til Implementation når følgende er innfridd. 
@@ -39,7 +39,7 @@ Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette o
 - Interne ressurser for å gjennomføre tiltaket 
 - Budsjett implementering og fordeling av budsjettbehov på ulike poster
 - Budsjett for forvaltning og drift
-- anses som haster og må prioriteres videre for Implementation
+- anses som haster og må prioriteres for Implementation
 
 ### Implementation
 Tiltak gjennomføres i devOps tem eller som selvsentige prosjekter hvis tiltaket ikke tilhører et produkt. I jennomføring fokuseres det på rapporering på innfrielse av:
