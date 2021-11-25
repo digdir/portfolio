@@ -4,33 +4,53 @@ Porteføljen består av de større tiltakene som det må settes av midler til fo
 
 ## Hvilke saker skal være del av porteføljen?
 
-Porteføljesaker er mer å regne som enkeltstående prosjekter som ikke trenger å være beslektet med hverandre. De kjennetegnes av  
-- at det er tiltak som er nødvendig for å nå virksomhetens mål
+Porteføljesaker er mer å regne som enkeltstående prosjekter. De kjennetegnes av:  
+- nødvendig for å nå virksomhetens mål
 - behov for ledelsesforankring
 - vil være gjenstand for prioritering
 
 ## Kriterier for faseoverganger
 
-Det er fire faser 
-1) New. Saker som skal være en del av porteføljen registreres med tilstrekkelig informasjon for å kunne kategorisere endringsinitiativene ut fra 
-strategiske mål. Tiltak flyttes til Concept når følgende er innfridd:
-- har samme målene som virksomheten har
-- må prioriteres
-3) Consept  kunne gjøre nødvendige prioriteringer
-4) Planning
-5) Done
+Det er fem faser:
 
-Sløyfen består av fem steg:
-1. Forstå: Identifisere hva som må endres, og sammenstille aktuelle initiativer i
-en helhet (porteføljeliste).
-2. Kategorisere: Organisere og kategorisere endringsinitiativene ut fra f.eks.
-strategiske mål, geografi, verdikjede eller type initiativ.
-3. Prioritere: Rangere initiativene basert på vedtatte måleparametere
-4. Balansere: Se hen til ønsket spredning f.eks. over tid eller med hensyn til
-risiko, bruk av knappe ressurser, innvirkning på hele virksomheten, sikre
-leveranser til hele det strategiske målbildet, osv.
-5. Planlegge: Til slutt må nye tiltak kobles til virksomhetens strategiske
-planleggingssyklus, og porteføljen må gjøres om til en årlig plan.
+### New
+Saker som skal være en del av porteføljen registreres med tilstrekkelig informasjon slik at det er mulig å forstå, kategorisere tiltaket samt identifisere hva som må endres. Tiltak flyttes til Concept når følgende er innfridd:
+- problemstilling eller behovet er beskrevet
+- problemet som skal løses sikrer leveranser til hele det strategiske målbildet
+- tiltaket er tildelt den som skal detaljere og beskrive nærmere   
+- anses som viktig og må prioriteres videre for consept
+
+### Consept 
+Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre videre prioriteringer. Tiltak flyttes til Planning når følgende er innfridd. 
+- mulig løsning er beskrevet
+- OKR er angitt
+- forventede effekter og fordeler er beskrevet
+- eierskap, interessenter og målgruppe er definert
+- anses som nødvendig og må prioriteres videre for planning
+
+### Planning
+Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette og følge opp tiltaket. Tiltak flyttes til Implementation når følgende er innfridd. 
+- Hvis mulig foreligger resultat fra proof of concept
+- Ressurser for å gjennomføre tiltaket 
+- milepæler er definert
+- Risiko er definert
+- Budsjett og fordeling av budsjettbehov på ulike poster
+- anses som haster og må prioriteres videre for Implementation
+
+### Implementation
+Tiltak gjennomføres i devOps tem eller som selvsentige prosjekter hvis tiltaket ikke tilhører et produkt. I jennomføring fokuseres det på rapporering på innfrielse av:
+- Mål/OKR
+- milepæler
+- Risiko
+- ressurser/budsjett
+
+Tiltak flyttes til Done når følgende er innfridd. 
+- OKR er kvittert ut/innfridd
+- løsning er overført til drift og forvaltning
+- Evaluering er gjennomført
+
+### Done
+Tiltaket er dokumentert og lukket 
 
 ## Porteføljen kan vises på ulike måter
 
