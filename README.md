@@ -4,11 +4,33 @@ Porteføljen består av de større tiltakene som det må settes av midler til fo
 
 ## Hvilke saker skal være del av porteføljen?
 
-TODO
+Porteføljesaker er mer å regne som enkeltstående prosjekter som ikke trenger å være beslektet med hverandre. De kjennetegnes av  
+- at det er tiltak som er nødvendig for å nå virksomhetens mål
+- behov for ledelsesforankring
+- vil være gjenstand for prioritering
 
 ## Kriterier for faseoverganger
 
-TODO
+Det er fire faser 
+1) New. Saker som skal være en del av porteføljen registreres med tilstrekkelig informasjon for å kunne kategorisere endringsinitiativene ut fra 
+strategiske mål. Tiltak flyttes til Concept når følgende er innfridd:
+- har samme målene som virksomheten har
+- må prioriteres
+3) Consept  kunne gjøre nødvendige prioriteringer
+4) Planning
+5) Done
+
+Sløyfen består av fem steg:
+1. Forstå: Identifisere hva som må endres, og sammenstille aktuelle initiativer i
+en helhet (porteføljeliste).
+2. Kategorisere: Organisere og kategorisere endringsinitiativene ut fra f.eks.
+strategiske mål, geografi, verdikjede eller type initiativ.
+3. Prioritere: Rangere initiativene basert på vedtatte måleparametere
+4. Balansere: Se hen til ønsket spredning f.eks. over tid eller med hensyn til
+risiko, bruk av knappe ressurser, innvirkning på hele virksomheten, sikre
+leveranser til hele det strategiske målbildet, osv.
+5. Planlegge: Til slutt må nye tiltak kobles til virksomhetens strategiske
+planleggingssyklus, og porteføljen må gjøres om til en årlig plan.
 
 ## Porteføljen kan vises på ulike måter
 
