@@ -4,11 +4,57 @@ Porteføljen består av de større tiltakene som det må settes av midler til fo
 
 ## Hvilke saker skal være del av porteføljen?
 
-TODO
+Porteføljesaker er mer å regne som enkeltstående prosjekter. De kjennetegnes av:  
+- nødvendig for å nå virksomhetens mål
+- behov for ledelsesforankring
+- vil være gjenstand for prioritering
 
 ## Kriterier for faseoverganger
 
-TODO
+Det er fem faser:
+
+### New/No status
+Saker som skal være en del av porteføljen registreres med tilstrekkelig informasjon slik at det er mulig å forstå, kategorisere tiltaket samt identifisere hva som må endres. Tiltak flyttes til Concept når følgende er innfridd:
+- problemstilling eller behovet er beskrevet
+- problemet som skal løses sikrer leveranser til hele det strategiske målbildet
+- tiltaket er tildelt den som skal detaljere og beskrive nærmere
+- prioritering er angitt ved MoSCoW 
+- arbeidsomfang for å ferdigstille aktiviteter i concept 
+- anses som viktig og må prioriteres videre for concept
+
+### Concept 
+Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre videre prioriteringer. Tiltak flyttes til Planning når følgende er innfridd. 
+- mulig løsning er beskrevet
+- OKR er angitt
+- forventede effekter og fordeler er beskrevet
+- eierskap, interessenter og målgruppe er definert
+- arbeidsomfang for å ferdigstille aktiviteter i planning
+- anses som nødvendig og må prioriteres videre for planning
+
+### Planning
+Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette og følge opp tiltaket. Tiltak flyttes til Implementation når følgende er innfridd. 
+- Hvis mulig foreligger resultat fra proof of concept
+- milepæler er definert
+- Risiko og DPIA er definert
+- Interne ressurser for å gjennomføre tiltaket 
+- Budsjett implementering og fordeling av budsjettbehov på ulike poster
+- Budsjett for forvaltning og drift
+- anses som haster og må prioriteres videre for Implementation
+
+### Implementation
+Tiltak gjennomføres i devOps tem eller som selvsentige prosjekter hvis tiltaket ikke tilhører et produkt. I jennomføring fokuseres det på rapporering på innfrielse av:
+- Mål/OKR
+- milepæler
+- Risiko
+- ressurser/budsjett
+
+Tiltak flyttes til Done når følgende er innfridd. 
+- OKR er kvittert ut/innfridd
+- løsning er overført til drift og forvaltning
+- Evaluering er gjennomført
+
+### Done
+Tiltaket er dokumentert og lukket 
 
 ## Porteføljen kan vises på ulike måter
 
