@@ -19,8 +19,8 @@ Saker som skal være en del av porteføljen registreres med tilstrekkelig inform
 - problemet som skal løses sikrer leveranser til det strategiske målbildet
 - tiltaket er tildelt den som skal detaljere og beskrive nærmere
 - prioritering er angitt ved MoSCoW 
-- arbeidsomfang for å ferdigstille aktiviteter i concept 
-- anses som viktig og må prioriteres for concept
+- arbeidsomfang for aktiviteter i concept 
+- beslutning, anses som viktig og må prioriteres for concept
 
 ### Concept 
 Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre videre prioriteringer. Tiltak flyttes til Planning når følgende er innfridd. 
@@ -28,24 +28,24 @@ Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre vider
 - OKR er angitt
 - forventede effekter og fordeler er beskrevet
 - eierskap, interessenter og målgruppe er definert
-- arbeidsomfang for å ferdigstille aktiviteter i planning
-- anses som nødvendig og må prioriteres for planning
+- arbeidsomfang for aktiviteter i planning
+- beslutning, anses som nødvendig og må prioriteres for planning
 
 ### Planning
 Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette og følge opp tiltaket. Tiltak flyttes til Implementation når følgende er innfridd. 
 - Hvis mulig foreligger resultat fra proof of concept
-- milepæler er definert
+- Milepæler er definert
 - Risiko og DPIA er definert
 - Interne ressurser for å gjennomføre tiltaket 
 - Budsjett implementering og fordeling av budsjettbehov på ulike poster
 - Budsjett for forvaltning og drift
-- anses som haster og må prioriteres for Implementation
+- beslutning, anses som haster og må prioriteres for Implementation
 
 ### Implementation
 Tiltak gjennomføres i devOps tem eller som selvsentige prosjekter hvis tiltaket ikke tilhører et produkt. I jennomføring fokuseres det på rapporering på innfrielse av:
 - Mål/OKR
 - milepæler
-- Risiko
+- risiko
 - ressurser/budsjett
 
 Tiltak flyttes til Done når følgende er innfridd. 
