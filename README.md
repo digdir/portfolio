@@ -2,12 +2,13 @@
 
 Porteføljen består av de større tiltakene som det må settes av midler til for å realisere.
 
-## Hvilke saker skal være del av porteføljen?
+## Saker i porteføljen
 
-Porteføljesaker er mer å regne som enkeltstående prosjekter. De kjennetegnes av:  
+Porteføljesaker kjennetegnes av:
+
 - nødvendig for å nå virksomhetens mål
-- behov for ledelsesforankring
-- vil være gjenstand for prioritering
+- vil være gjenstand for prioritering, ofte på tvers av flere teams
+- ønskelig med ledelsesforankring
 
 ## Kriterier for faseoverganger
 
@@ -56,7 +57,7 @@ Tiltak flyttes til Done når følgende er innfridd.
 ### Done
 Tiltaket er dokumentert og lukket 
 
-## Porteføljen kan vises på ulike måter
+## Visninger
 
 - **[Issues](https://github.com/Altinn/dig-portfolio/issues)** - Standard visning av GitHub issues
   [![Issues screenshot](https://user-images.githubusercontent.com/6088624/139852763-35d82799-cdb7-410e-a99e-54a5b6e6ae8d.png)](https://github.com/Altinn/dig-portfolio/issues "Issues")
