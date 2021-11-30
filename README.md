@@ -4,7 +4,7 @@ Porteføljen består av de større tiltakene som det må settes av midler til fo
 
 ## Saker i porteføljen
 
-Porteføljesaker kjennetegnes av:
+[Porteføljesaker](https://github.com/Altinn/dig-portfolio/issues) kjennetegnes av:
 
 - nødvendig for å nå virksomhetens mål
 - vil være gjenstand for prioritering, ofte på tvers av flere teams
