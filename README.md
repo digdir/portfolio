@@ -43,14 +43,14 @@ Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette o
 - beslutning, anses som haster og må prioriteres for Implementation
 
 ### Implementation
-Tiltak gjennomføres i devOps tem eller som selvsentige prosjekter hvis tiltaket ikke tilhører et produkt. I jennomføring fokuseres det på rapporering på innfrielse av:
+Tiltak gjennomføres i devOps tem eller som selvsentige prosjekter hvis tiltaket ikke tilhører et produkt. I gjennomføring fokuseres det på rapporering på innfrielse av:
 - Mål/OKR
 - milepæler
 - risiko
 - ressurser/budsjett
 
 Tiltak flyttes til Done når følgende er innfridd. 
-- OKR er kvittert ut/innfridd
+- Mål/OKR er kvittert ut/innfridd
 - løsning er overført til drift og forvaltning
 - Evaluering er gjennomført
 
