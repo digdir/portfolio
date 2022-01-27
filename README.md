@@ -12,47 +12,55 @@ Porteføljen består av de større tiltakene som det må settes av midler til fo
 
 ## Kriterier for faseoverganger
 
-Det er fem faser:
+Det er seks faser:
+
+### Ingen fase
+Saker har en overordnet beskrivelse (en tanke/ide). Tiltak flyttes til New/No status når følgende er innfridd:
+- problemstilling eller behovet er beskrevet  
+- anses som viktig og bør vurderes nærmere
+- tiltaket bidrar til en balansert portefølje (at issues fordeles mest mulig over det strategiske målbildet samt sikrer jevn arbeidsbelastning)
+- det er ikke åpenbare hindringer i veien for å starte opp arbeidet
 
 ### New/No status
-Saker som skal være en del av porteføljen registreres med tilstrekkelig informasjon slik at det er mulig å forstå, kategorisere tiltaket samt identifisere hva som må endres. Tiltak flyttes til Concept når følgende er innfridd:
+Saker som skal være en del av porteføljen beskrives nærmere slik at det er mulig å prioritere tiltaket. Tiltak flyttes til Concept når følgende er innfridd:
 - problemstilling eller behovet er beskrevet
 - problemet som skal løses sikrer leveranser til det strategiske målbildet
 - tiltaket er tildelt den som skal detaljere og beskrive nærmere
 - prioritering er angitt ved MoSCoW 
-- arbeidsomfang for aktiviteter i concept 
+- arbeidsoppgaver og omfang i neste fase er angitt 
 - beslutning, anses som viktig og må prioriteres for concept
 
 ### Concept 
 Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre videre prioriteringer. Tiltak flyttes til Planning når følgende er innfridd. 
 - mulig løsning er beskrevet
 - OKR er angitt
-- forventede effekter og fordeler er beskrevet
+- forventede effekter er beskrevet
 - eierskap, interessenter og målgruppe er definert
-- arbeidsomfang for aktiviteter i planning
+- arbeidsomfang og omfang i neste fase er angitt
 - beslutning, anses som nødvendig og må prioriteres for planning
 
 ### Planning
 Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette og følge opp tiltaket. Tiltak flyttes til Implementation når følgende er innfridd. 
-- Hvis mulig foreligger resultat fra proof of concept
-- Milepæler er definert
-- Risiko og DPIA er definert
-- Interne ressurser for å gjennomføre tiltaket 
-- Budsjett implementering og fordeling av budsjettbehov på ulike poster
-- Budsjett for forvaltning og drift
-- beslutning, anses som haster og må prioriteres for Implementation
+- hvis mulig foreligger resultat fra proof of concept
+- milepæler er definert
+- risiko og DPIA er definert
+- interne ressurser for å gjennomføre tiltaket 
+- budsjett implementering og fordeling av budsjettbehov på ulike poster
+- Organisering for å overta forvaltning og drift
+- beslutning, anses som nødvendig og må prioriteres for Implementation
 
 ### Implementation
 Tiltak gjennomføres i devOps tem eller som selvsentige prosjekter hvis tiltaket ikke tilhører et produkt. I gjennomføring fokuseres det på rapporering på innfrielse av:
-- Mål/OKR
-- milepæler
+- OKR (ligger på selve tiltaket)
+- status
+- fremdrift
+- kostnad
 - risiko
-- ressurser/budsjett
 
 Tiltak flyttes til Done når følgende er innfridd. 
 - Mål/OKR er kvittert ut/innfridd
 - løsning er overført til drift og forvaltning
-- Evaluering er gjennomført
+- Prospektiv og retrospektiv er gjennomført
 
 ### Done
 Tiltaket er dokumentert og lukket 
