@@ -1,4 +1,4 @@
-# DGT Portfolio
+# BOD Portfolio
 
 Porteføljen består av de større tiltakene som det må settes av midler til for å realisere.
 
