@@ -59,7 +59,9 @@ Tiltak gjennomføres i devOps tem eller som selvsentige prosjekter hvis tiltaket
 
 Tiltak flyttes til Done når følgende er innfridd. 
 - Mål/OKR er kvittert ut/innfridd
-- løsning er overført til drift og forvaltning
+- Møtereferater fra eksterne møter er arkivert
+- Økonomi er avsluttet
+- Løsning er overført til drift og forvaltning
 - Prospektiv og retrospektiv er gjennomført
 
 ### Done
