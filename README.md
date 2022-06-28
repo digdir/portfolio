@@ -12,44 +12,48 @@ Porteføljen består av de større tiltakene som det må settes av midler til fo
 
 ## Kriterier for faseoverganger
 
-Det er seks faser:
+Det er fem faser:
 
-### Ingen fase
-Saker har en overordnet beskrivelse (en tanke/ide). Tiltak flyttes til New/No status når følgende er innfridd:
-- problemstilling eller behovet er beskrevet  
+### Ny
+Saker har en overordnet beskrivelse (en tanke/ide). Tiltak flyttes til problem når følgende er innfridd:
+- overordnet innsikt og forståelse er etablert
+- overordnet problem og behovet er beskrevet  
 - anses som viktig og bør vurderes nærmere
 - tiltaket bidrar til en balansert portefølje (at issues fordeles mest mulig over det strategiske målbildet samt sikrer jevn arbeidsbelastning)
 - det er ikke åpenbare hindringer i veien for å starte opp arbeidet
-
-### New/No status
-Saker som skal være en del av porteføljen beskrives nærmere slik at det er mulig å prioritere tiltaket. Tiltak flyttes til Concept når følgende er innfridd:
-- problemstilling eller behovet er beskrevet
-- problemet som skal løses sikrer leveranser til det strategiske målbildet
 - tiltaket er tildelt den som skal detaljere og beskrive nærmere
-- prioritering er angitt ved MoSCoW 
-- arbeidsoppgaver og omfang i neste fase er angitt 
-- beslutning, anses som viktig og må prioriteres for concept
+- arbeidsoppgaver og omfang i neste fase er angitt
 
-### Concept 
-Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre videre prioriteringer. Tiltak flyttes til Planning når følgende er innfridd. 
-- mulig løsning er beskrevet
-- OKR er angitt
+### Problem
+Saker som skal være en del av porteføljen beskrives nærmere slik at det er mulig å prioritere tiltaket. Tiltak flyttes til konsept når følgende er innfridd:
+- Hvis behov uføres ytterligere innsiktsarbeid
+- Problemdefinisjon er etabert
+- problemet som skal løses sikrer leveranser til det strategiske målbildet
+- prioritering er angitt ved MoSCoW  
+- beslutning, anses som viktig og må prioriteres for konsept
+- arbeidsoppgaver og omfang i neste fase er angitt
+
+### Konsept 
+Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre videre prioriteringer. Tiltak flyttes til planlegging når følgende er innfridd. 
+- Konsepter er utvikliet som skrivebordsøvelse eller kjørende versjoner 
+- Proof of concept /mulig løsning er beskrevet
+- OKR er beskrevet
 - forventede effekter er beskrevet
 - eierskap, interessenter og målgruppe er definert
-- arbeidsomfang og omfang i neste fase er angitt
-- beslutning, anses som nødvendig og må prioriteres for planning
+- beslutning, anses som nødvendig og må prioriteres for planlegging
+- arbeidsoppgaver og omfang i neste fase er angitt
 
-### Planning
-Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette og følge opp tiltaket. Tiltak flyttes til Implementation når følgende er innfridd. 
-- hvis mulig foreligger resultat fra proof of concept
+### Planlegging
+Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette og følge opp tiltaket. Tiltak flyttes til implementering når følgende er innfridd. 
 - milepæler er definert
 - risiko og DPIA er definert
-- interne ressurser for å gjennomføre tiltaket 
-- budsjett implementering og fordeling av budsjettbehov på ulike poster
-- Organisering for å overta forvaltning og drift
-- beslutning, anses som nødvendig og må prioriteres for Implementation
+- interne ressurser for å gjennomføre tiltaket er identifisert
+- budsjett implementering og drift er utarbeidet
+- organisering for å overta forvaltning og drift er beskrevet
+- beslutning, anses som nødvendig og må prioriteres for implementering
+- arbeidsoppgaver og omfang i neste fase er angitt
 
-### Implementation
+### Implementering
 Tiltak gjennomføres i devOps tem eller som selvsentige prosjekter hvis tiltaket ikke tilhører et produkt. I gjennomføring fokuseres det på rapporering på innfrielse av:
 - OKR (ligger på selve tiltaket)
 - status
@@ -57,15 +61,14 @@ Tiltak gjennomføres i devOps tem eller som selvsentige prosjekter hvis tiltaket
 - kostnad
 - risiko
 
-Tiltak flyttes til Done når følgende er innfridd. 
+Tiltak avsluttes og arkiveres når følgende er innfridd (definition of done)
 - Mål/OKR er kvittert ut/innfridd
-- Møtereferater fra eksterne møter er arkivert
-- Økonomi er avsluttet
+- Økonomi er gjort opp
 - Løsning er overført til drift og forvaltning
-- Prospektiv og retrospektiv er gjennomført
-
-### Done
-Tiltaket er dokumentert og lukket 
+- Prospektiv og retrospektiv er utført
+- Møtereferater fra eksterne møter er overført arkivet i Digdir
+- Løsning er dokumentert
+- Tiltak arkivert i Github
 
 ## Visninger
 
