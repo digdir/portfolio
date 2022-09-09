@@ -1,4 +1,4 @@
-# DGT Portfolio
+# Digdir Portfolio
 
 Porteføljen består av de større tiltakene som det må settes av midler til for å realisere.
 
