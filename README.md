@@ -4,7 +4,7 @@ Porteføljen består av de senrale tiltakene som det må settes av midler til fo
 
 ## Porteføljen ligger her: 
 Krever egen bruker: https://github.com/orgs/digdir/projects/1/views/2  
-Krever ikke bruker: https://github.com/digdir/portfolio/issues)
+Krever ikke bruker: https://github.com/digdir/portfolio/issues
 
 ## Mal som skal benyttes
 Hvert eneste tiltak skal beskrives med utgangspunkt i [denne malen](https://github.com/digdir/portfolio/issues/new/choose)
