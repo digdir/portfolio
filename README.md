@@ -38,17 +38,19 @@ Saker som skal være en del av porteføljen beskrives nærmere slik at det er mu
 - arbeidsoppgaver og omfang i konseptfasen er angitt 
 
 ### Konsept 
-Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre videre prioriteringer. Tiltak flyttes til planlegging når følgende er innfridd. 
-- Konsepter er utvikliet som skrivebordsøvelse eller kjørende versjoner 
-- OKR er beskrevet
-- forventede effekter er beskrevet
-- eierskap, interessenter og målgruppe er definert
+Saker beskrives og detaljeres slik at det skal være mulig å kunne gjøre videre prioriteringer. Konseptfasen sikrer at et eventuelt prosjekt vil være riktig bruk av virksomhetens ressurser for å tilfredsstille et definert behov. Tiltak flyttes til planlegging når følgende er innfridd: 
+- Konsepter er utvikliet som skrivebordsøvelse eller kjørende versjoner.  
+- OKR (mål og nøkkelresultat) er identifisert
+- Risiko med tiltak er utarbeidet
+- Arkitektur, Sikkerhet og juridisk er vurdert på et overordnet nivå
+- Gjenbruk mot ny-etablering er vurdert
+- eierskap, interessenter og målgruppe er definert og forankring har startet
 - arbeidsoppgaver og omfang i planfasen er angitt
 
 ### Planlegging
 Saker beskrives og detaljeres slik at det skal være mulig å kunne iverksette og følge opp tiltaket. Tiltak flyttes til implementering når følgende er innfridd. 
 - milepæler er definert
-- risiko og DPIA er definert
+- Arkitektur, Sikkerhet og juridisk er detaljert ytterligere fra konseptfasen
 - interne ressurser for å gjennomføre tiltaket er allokert
 - budsjett implementering og fordeling av budsjettbehov på ulike poster
 - organisering for å overta forvaltning og drift er beskrevet
