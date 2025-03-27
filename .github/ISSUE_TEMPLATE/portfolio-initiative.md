@@ -3,31 +3,26 @@ name: Portfolio initiative
 about: Register a new portfolio initiative
 ---
 
-## Describe the problem or need 
+# Grunninformasjon
+## Samarbeid med 
+## Avhengigheter til andre tiltak
 
-## Objectives & Key Results (OKR)
 
-### Objective 1
-- [ ] Key result
-- [ ] Key result
-- [ ] Key result
+# Begrunnelse
+## Problemstilling 
+## Beskrivelse av tiltaket
+## Risiko hvis tiltaket ikke gjennomføres
+## Mål og nøkkelresultat (OKR)
+### Mål 1 
+- [ ] Nøkkelresultat
+- [ ] Nøkkelresultat
+- [ ] Nøkkelresultat
+### Mål 2
+- [ ] Nøkkelresultat
+- [ ] Nøkkelresultat
+- [ ] Nøkkelresultat
 
-### Objective 2
-- [ ] Key result
-- [ ] Key result
-- [ ] Key result
+# Ressurser
+## Hvilken kompetanse trengs for tiltaket
+## Behov totalt, sum månedsverk
 
-### Objective 3
-- [ ] Key result
-- [ ] Key result
-- [ ] Key result
-
-## Describe the possible solution
-
-### Expected benefits and effects 
-
-### Stakeholders and target groups
-
-### Resources
-
-### Risk
