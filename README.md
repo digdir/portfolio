@@ -1,6 +1,6 @@
 # Digdir Portfolio
 
-Porteføljen består av de senrale tiltakene som det må settes av midler til for å realisere.
+Porteføljen består av de sentrale tiltakene som det må settes av midler til for å realisere.
 
 ## Porteføljen ligger her: 
 Krever egen bruker: https://github.com/orgs/digdir/projects/1/views/2  
